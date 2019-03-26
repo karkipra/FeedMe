@@ -22,7 +22,7 @@ Here are some screenshots from our latest demo:
 - 25 items are shown per search results and are categorized by relevance. They include these parameters:
     - Display picture of the final product
     - Name
-    - Option to a favorite recipe
+    - Option to favorite a recipe
 - Finally, an section about the contributors.    
 
 ## API
