@@ -14,9 +14,9 @@ This project was created as a Final Project for Mobile Software Development at A
 
 Here are some screenshots from our latest demo:
 
-![Home Page](/screenshots/Homepage.png?raw=true){:height="400px" width="200px"}
-![Search Bar](/screenshots/Searchbar.png?raw=true){:height="400px" width="200px"}
-![Side Bar](/screenshots/Sidebar.png?raw=true){:height="400px" width="200px"}
+![Home Page](/screenshots/Homepage.png?raw=true {width=40px height=400px})
+![Search Bar](/screenshots/Searchbar.png?raw=true {width=40px height=400px})
+![Side Bar](/screenshots/Sidebar.png?raw=true {width=40px height=400px})
 
 ## Features
 
