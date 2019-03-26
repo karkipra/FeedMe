@@ -14,9 +14,9 @@ This project was created as a Final Project for Mobile Software Development at A
 
 Here are some screenshots from our latest demo:
 
-![Home Page](/screenshots/Homepage.png?raw=true) <!-- .element height="50%" width="50%" -->
-![Search Bar](/screenshots/Searchbar.png?raw=true) <!-- .element height="50%" width="50%" -->
-![Side Bar](/screenshots/Sidebar.png?raw=true) <!-- .element height="50%" width="50%" -->
+![Home Page](/screenshots/Homepage.png?raw=true){:height="50%" width="50%"}
+![Search Bar](/screenshots/Searchbar.png?raw=true){:height="50%" width="50%"}
+![Side Bar](/screenshots/Sidebar.png?raw=true){:height="50%" width="50%"}
 
 ## Features
 
