@@ -16,8 +16,10 @@ Here are some screenshots from our latest demo:
 
 ![Home Page](/screenshots/Homepage.png?raw=true)
 <img src="/screenshots/Homepage.png?raw=true"  width="250" height="500">
+
 ![Search Bar](/screenshots/Searchbar.png?raw=true)
 <img src="/screenshots/Searchbar.png?raw=true"  width="250" height="500">
+
 ![Side Bar](/screenshots/Sidebar.png?raw=true)
 <img src="/screenshots/Sidebar.png?raw=true"  width="250" height="500">
 
