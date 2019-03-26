@@ -1,4 +1,4 @@
-# FeedMe
+# Feed Me
 
 A recipe application for Android using an external API with a login function and persistent storage options.  <br />
 Created by Pratik Karki, Marty Toney, and Hüseyin Altınışık.
@@ -19,11 +19,11 @@ Here are some screenshots from our latest demo:
 - Persistent storage using Room so that recent search history does not disappear.
 - Uses an external API known as Food2Fork to search for recipes (more details in the next section).
 - Option to mark recipes as favorites and access them at any time.
-- 25 items are shown per search according to most relevant and include such parameters:
+- 25 items are shown per search results and are categorized by relevance. They include these parameters:
     - Display picture of the final product
     - Name
     - Option to a favorite recipe
-- Finally, an about section for the contributors.    
+- Finally, an section about the contributors.    
 
 ## API
 
