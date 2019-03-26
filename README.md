@@ -14,10 +14,16 @@ This project was created as a Final Project for Mobile Software Development at A
 
 Here are some screenshots from our latest demo:
 
+
+###### Home Page
 <img src="/screenshots/Homepage.png?raw=true"  width="400" height="700">
 <br />
+
+###### Search Bar
 <img src="/screenshots/Searchbar.png?raw=true"  width="400" height="700">
 <br />
+
+###### Side Navigation
 <img src="/screenshots/Sidebar.png?raw=true"  width="400" height="700">
 
 ## Features
