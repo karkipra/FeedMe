@@ -15,11 +15,11 @@ This project was created as a Final Project for Mobile Software Development at A
 Here are some screenshots from our latest demo:
 
 ![Home Page](/screenshots/Homepage.png?raw=true)
-<img src="/screenshots/Homepage.png?raw=true"  width="400" height="700"/>
-
+<img src="/screenshots/Homepage.png?raw=true"  width="400" height="700">
+<br />
 ![Search Bar](/screenshots/Searchbar.png?raw=true)
 <img src="/screenshots/Searchbar.png?raw=true"  width="400" height="700">
-
+<br />
 ![Side Bar](/screenshots/Sidebar.png?raw=true)
 <img src="/screenshots/Sidebar.png?raw=true"  width="400" height="700">
 
