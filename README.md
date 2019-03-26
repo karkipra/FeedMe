@@ -1,7 +1,10 @@
 # Feed Me
 
 A recipe application for Android using an external API with a login function and persistent storage options.  <br />
-Created by Pratik Karki, Marty Toney, and Hüseyin Altınışık.
+Created by:
+- Pratik Karki
+- Marty Toney
+- Hüseyin Altınışık.
 
 ## Motivation
 
@@ -11,7 +14,9 @@ This project was created as a Final Project for Mobile Software Development at A
 
 Here are some screenshots from our latest demo:
 
-![Home Page](/screenshots/Homepage.png?raw=true) ![Search Bar](/screenshots/Searchbar.png?raw=true) ![Side Bar](/screenshots/Sidebar.png?raw=true)
+![Home Page](/screenshots/Homepage.png?raw=true =200x400) 
+![Search Bar](/screenshots/Searchbar.png?raw=true =200x400) 
+![Side Bar](/screenshots/Sidebar.png?raw=true =200x400)
 
 ## Features
 
