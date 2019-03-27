@@ -10,22 +10,6 @@ Created by:
 
 This project was created as a Final Project for Mobile Software Development at AIT-Budapest, Fall 2018. Our goal was to use all the different features we learned about Android Studio and create a fully-functioning publishable app that has real-life uses. Creating a recipe app became a common theme that we pursued as it allowed us to explore fetching data through APIs and have it be customized to be as easy as possible to use. 
 
-## Demo
-
-Here are some screenshots from our latest demo:
-
-
-###### Home Page
-<img src="/screenshots/Homepage.png?raw=true"  width="400" height="700">
-<br />
-
-###### Search Bar
-<img src="/screenshots/Searchbar.png?raw=true"  width="400" height="700">
-<br />
-
-###### Side Navigation
-<img src="/screenshots/Sidebar.png?raw=true"  width="400" height="700">
-
 ## Features
 
 - Login function using Google Firebase that stores user information and can be accessed from any device.
@@ -36,7 +20,24 @@ Here are some screenshots from our latest demo:
     - Display picture of the final product
     - Name
     - Option to favorite a recipe
-- Finally, an section about the contributors.    
+- Finally, an section about the contributors. 
+
+## Screenshots
+
+Here are some screenshots from our latest demo:
+
+
+###### Home Page & Search Bar
+<img src="/screenshots/Searchbar.png?raw=true"  width="400" height="700">
+<br />
+
+###### Favorites Page
+<img src="/screenshots/Homepage.png?raw=true"  width="400" height="700">
+<br />
+
+###### Side Navigation
+<img src="/screenshots/Sidebar.png?raw=true"  width="400" height="700">
+   
 
 ## API
 
